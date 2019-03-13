@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://lvchongen.github.io/"/>
   <updated>2019-03-13T07:30:52.845Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://lvchongen.github.io/</id>
   
   <author>
     <name>Chongen Lv</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/03/13/hello-world/"/>
-    <id>http://yoursite.com/2019/03/13/hello-world/</id>
+    <link href="https://lvchongen.github.io/2019/03/13/hello-world/"/>
+    <id>https://lvchongen.github.io/2019/03/13/hello-world/</id>
     <published>2019-03-13T07:30:52.845Z</published>
     <updated>2019-03-13T07:30:52.845Z</updated>
     
