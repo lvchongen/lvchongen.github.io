@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Spine-Leaf 简明介绍</title>
+      <link href="/2019/03/14/Spine-Leaf/"/>
+      <url>/2019/03/14/Spine-Leaf/</url>
+      
+        <content type="html"><![CDATA[<h1 id="数据中心网络：Spine-Leaf-架构设计综述"><a href="#数据中心网络：Spine-Leaf-架构设计综述" class="headerlink" title="数据中心网络：Spine-Leaf 架构设计综述"></a>数据中心网络：Spine-Leaf 架构设计综述</h1><h2 id="1-数据中心演进"><a href="#1-数据中心演进" class="headerlink" title="1. 数据中心演进"></a>1. 数据中心演进</h2><p>传统的数据中心使用三层架构(three-tier architecture) ，将整个业务应用划分为: 界面层(User Interface layer)，业务逻辑层(Business Logic Layer) 和 数据访问层(Data Access Layer).</p><p><img src="https://lvchongen-1255888772.cos.ap-chengdu.myqcloud.com/Old.png" alt="Old_DataCenter"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/03/13/hello-world/"/>
       <url>/2019/03/13/hello-world/</url>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lvchongen.github.io/"/>
-  <updated>2019-03-13T07:30:52.845Z</updated>
+  <updated>2019-03-14T05:40:27.453Z</updated>
   <id>https://lvchongen.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Spine-Leaf 简明介绍</title>
+    <link href="https://lvchongen.github.io/2019/03/14/Spine-Leaf/"/>
+    <id>https://lvchongen.github.io/2019/03/14/Spine-Leaf/</id>
+    <published>2019-03-14T05:32:05.000Z</published>
+    <updated>2019-03-14T05:40:27.453Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="数据中心网络：Spine-Leaf-架构设计综述"><a href="#数据中心网络：Spine-Leaf-架构设计综述" class="headerlink" title="数据中心网络：Spine-Leaf 架构设计综述"></a>数据中心网络：Spine-Leaf 架构设计综述</h1><h2 id="1-数据中心演进"><a href="#1-数据中心演进" class="headerlink" title="1. 数据中心演进"></a>1. 数据中心演进</h2><p>传统的数据中心使用三层架构(three-tier architecture) ，将整个业务应用划分为: 界面层(User Interface layer)，业务逻辑层(Business Logic Layer) 和 数据访问层(Data Access Layer).</p><p><img src="https://lvchongen-1255888772.cos.ap-chengdu.myqcloud.com/Old.png" alt="Old_DataCenter"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;数据中心网络：Spine-Leaf-架构设计综述&quot;&gt;&lt;a href=&quot;#数据中心网络：Spine-Leaf-架构设计综述&quot; class=&quot;headerlink&quot; title=&quot;数据中心网络：Spine-Leaf 架构设计综述&quot;&gt;&lt;/a&gt;数据中心网络：Spine-L
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
